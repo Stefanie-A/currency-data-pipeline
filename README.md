@@ -1,4 +1,4 @@
-# 📊 Data Ingestion and ETL Pipeline with AWS (Terraform)
+# 📊Curremcy Data Pipeline on AWS
 
 A production-ready, serverless ETL pipeline that automatically ingests real-time currency exchange rates from the Fixer API, processes them into analytics-ready format, and makes them queryable through SQL. Built entirely with AWS services and Infrastructure as Code (Terraform).
 
